@@ -4,7 +4,7 @@ document.write(
         <h2> End of Sprint 1 </h2>\
           <div style="margin-left: auto;">\
           <h3> GameDev </h3>\
-          <h3> 21/9-22 </h3>\
+          <h3> 10/10-22 </h3>\
         </div>\
       </div>\
     \
