@@ -17,7 +17,7 @@ document.write(
             that you might get to see in the future! As for the ever-looming multiplayer aspect of our game, we in the frontend group are mostly ready \
             actually. We even have a working frame for a multiplayer page, now we just need to get some more information from the backend and we\'re all set! \
             <br><br>\
-            Today we also did some planning for sprint 3, held a super intense demo for Tromb, and got the super-insightful \"Snyggt! Jag tycker alla funkar &#128077\" \
+            Today we also did some planning for sprint 3, held a super intense demo for Tromb, and got the super insightful \"Snyggt! Jag tycker alla funkar &#128077\" \
             feedback on our 9 different proposed logos\.\.\.\
             <br><br>\
             Oh, and here\'s that demo video Emma promised I would upload last time, oops &#128517!\
