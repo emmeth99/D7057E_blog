@@ -19,7 +19,7 @@ document.write(
       <br><br>\
       But now we are starting sprint 3 and this time we actually have some sprint goals(we kind of forgot to write down sprint goals for sprint 2 other than just a \
       mutual consensus about what we should do) and looking to implement multiplayer, do some more refactoring(yes, because we love refactoring), look at how we can deploy \
-      a minimum viable product onto a webbserver and lastly fixing bugs/fixing perfomance issues.
+      a minimum viable product onto a webbserver and lastly fixing bugs/fixing perfomance issues. \
       </p>\
     </div>\
     ');
